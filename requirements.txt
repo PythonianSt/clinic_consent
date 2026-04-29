@@ -1,0 +1,8 @@
+streamlit
+supabase
+reportlab
+pytz
+pandas
+streamlit-drawable-canvas
+pillow
+requests
